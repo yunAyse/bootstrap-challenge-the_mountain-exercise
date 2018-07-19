@@ -42,6 +42,10 @@ Pour afficher les icônes qui ne sont pas présentent dans les images, vous util
 (http://fortawesome.github.io/Font-Awesome/) 
 (http://www.typicons.com/)
 
+Polices d'écritures :
+* Rokkit pour les titrages : https://fonts.google.com/selection?query=rokkit&selection.family=Rokkitt
+* Roboto pour les paragraphes : https://fonts.google.com/selection?query=robot&selection.family=Roboto
+
 # Bonus
 
 * Créer la fonctionnalité 'back-to-top' : quand on clique sur la flèche, faire remonter au début de la page
