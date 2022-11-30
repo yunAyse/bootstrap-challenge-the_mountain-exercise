@@ -39,7 +39,7 @@ Le menu sera composé des rubriques suivantes:
 Le menu apparait seulement lorsqu'on clique sur l'icone "bars".
 
 Pour afficher les icônes qui ne sont pas présentent dans les images, vous utiliserez Font Awesome et Typicons.
-(http://fortawesome.github.io/Font-Awesome/) 
+(https://fontawesome.com/) 
 (http://www.typicons.com/)
 
 Polices d'écritures :
