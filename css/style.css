@@ -1,8 +1,15 @@
+ *{
+  margin: 0;
+  padding: 0;
+ }
+ 
  #home {
   background: url(../images/bg_header.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+
+  /* min-height: 100vh; */
 
   padding: 154px;
  }
@@ -33,9 +40,94 @@
   background-repeat: no-repeat;
   background-position: center;
 
-  padding: 64px;
+  /* padding: 64px; */
  }
 
  .about__container {
-  background-color: rgba(134, 195, 223, 0.5);
+  background-color: rgba(134, 195, 223, 0.7);
  }
+
+ .about__box-left, .about__box-right{
+  border: 1px solid rgba(255, 255, 255, 0.6);
+ }
+
+ .blog__image img {
+  object-fit: cover;
+  width: 380px;
+ }
+
+ .blog__button button{
+  border: none;
+  background-color: #f42258;
+
+ }
+
+ #history {
+  background: url(../images/bg_appareil_photo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+ }
+ 
+ .history__container {
+  background-color: rgba(134, 195, 223, 0.7);
+ }
+ 
+ #photos {
+  background-color: #dddddd;
+ }
+
+ #photos img {
+  object-fit: cover;
+  width: 310px;
+ }
+
+ #photos .photos__container {
+  /* display: grid;
+
+  grid-row: auto;
+  grid-column:auto; */
+
+ }
+
+ #partenaires img {
+  object-fit: contain;
+  width: 140px;
+ }
+
+ #contact {
+  /* background-image: url(../images/bg_newsletter.jpg); */
+  background: linear-gradient(rgba(15, 14, 14, 0.5), rgba(15,14,14,0.5)),
+    url(../images/bg_newsletter.jpg);
+
+  /* filter: brightness(50%); */
+  background-position: top left;
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  /* min-height: 100vh; */
+  
+ }
+
+ .contact__description {
+  font-size: 14px;
+ }
+
+ .contact__form input {
+  width: 320px;
+ }
+
+ .contact__form button {
+  background-color: #f52257;
+  border: none;
+  width: 160px;
+ }
+ 
+ #footer {
+  background-color: #24323b;
+  height: 150px;
+ }
+
+ #footer span,svg {
+  color: #36c8c7 ;
+ }
+ 
