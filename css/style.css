@@ -1,0 +1,41 @@
+ #home {
+  background: url(../images/bg_header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  padding: 154px;
+ }
+
+ #home .learn-more-btn {
+  color: #fff;
+  background-color: #36c4c5;
+  
+  border: none;
+  border-radius: 1px ; 
+ }
+
+ #home .download-btn {
+  color: #fff;
+  background-color: #f52257;
+  
+  border: none;
+  border-radius: 1px ; 
+ }
+
+ .home__description {
+  width: 470px;
+ }
+
+ #about {
+  background: url(../images/bg_nuage.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  padding: 64px;
+ }
+
+ .about__container {
+  background-color: rgba(134, 195, 223, 0.5);
+ }
